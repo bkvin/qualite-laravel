@@ -16,6 +16,7 @@ node("master") {
 
         stage('documentation') {
             sh('php phpDocumentor.phar -d app -t docs/api')
+            publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: 'docs/api', reportFiles: 'index.html', reportName: 'HTML Report', reportTitles: ''])
         }
 
         stage('git'){  
