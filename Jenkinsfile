@@ -7,16 +7,25 @@ node("master") {
         }
 
         stage('build'){ 
-            // sh "composer install"
+            sh('composer install')
         }
 
         stage('test') {
-            // sh "./vendor/bin/phpunit"
+            sh('./vendor/bin/phpunit')
         }
 
         stage('documentation') {
             sh('php phpDocumentor.phar -d app -t docs/api')
-            publishHTML([allowMissing: false, alwaysLinkToLastBuild: false, keepAll: false, reportDir: 'docs/api', reportFiles: 'index.html', reportName: 'HTML Report', reportTitles: ''])
+            publishHTML([
+                allowMissing: false, 
+                alwaysLinkToLastBuild: false, 
+                keepAll: false, 
+                reportDir: 'docs/api', 
+                reportFiles: 'index.html', 
+                reportName: 'HTML Report', 
+                reportTitles: ''
+            ])
+            error("Build failed because of this and that..")
         }
 
         stage('git'){  
