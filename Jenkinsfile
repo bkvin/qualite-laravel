@@ -20,7 +20,7 @@ node("master") {
                 allowMissing: false, 
                 alwaysLinkToLastBuild: true, 
                 keepAll: true, 
-                reportDir: '${WORKSPACE}/docs/api', 
+                reportDir: WORKSPACE+'/docs/api', 
                 reportFiles: 'index.html', 
                 reportName: 'HTML Report', 
                 reportTitles: ''
