@@ -25,7 +25,6 @@ node("master") {
                 reportName: 'HTML Report', 
                 reportTitles: ''
             ])
-            error("Build failed because of this and that..")
         }
 
         stage('git'){  
