@@ -18,8 +18,8 @@ node("master") {
             sh('php phpDocumentor.phar -d app -t docs/api')
             publishHTML([
                 allowMissing: false, 
-                alwaysLinkToLastBuild: false, 
-                keepAll: false, 
+                alwaysLinkToLastBuild: true, 
+                keepAll: true, 
                 reportDir: 'docs/api', 
                 reportFiles: 'index.html', 
                 reportName: 'HTML Report', 
