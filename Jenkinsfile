@@ -15,7 +15,7 @@ node("master") {
         }
 
         stage('documentation') {
-            sh('php /usr/local/bin/phpDocumentor -d app -t docs/api')
+            sh('php phpDocumentor.phar -d app -t docs/api')
         }
 
         stage('git'){  
