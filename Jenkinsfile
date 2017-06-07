@@ -14,6 +14,10 @@ node("master") {
             // sh "./vendor/bin/phpunit"
         }
 
+        stage('documentation') {
+            sh('php /usr/local/bin/phpDocumentor -d app -t docs/api')
+        }
+
         stage('git'){  
             
             GIT_MERGE = sh(returnStdout: true, script: 'git merge origin/dev').trim()
