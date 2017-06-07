@@ -4,7 +4,6 @@ node("master") {
         
         stage('prepare') {
             git credentialsId: '9960d055-df1c-474a-ac3b-5bfdfbd4d59d', url: 'https://github.com/bkvin/qualite-laravel.git', branch: 'master'
-            sh('echo ${WORKSPACE}')
         }
 
         stage('build'){ 
@@ -21,7 +20,7 @@ node("master") {
                 allowMissing: false, 
                 alwaysLinkToLastBuild: true, 
                 keepAll: true, 
-                reportDir: 'docs/api', 
+                reportDir: '${WORKSPACE}/docs/api', 
                 reportFiles: 'index.html', 
                 reportName: 'HTML Report', 
                 reportTitles: ''
