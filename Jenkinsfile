@@ -15,7 +15,7 @@ node("master") {
         }
 
         stage('documentation') {
-            sh('php phpDocumentor.phar -d app -t docs/api')
+            sh('php phpDocumentor.phar -d app -t public/docs --template="responsive-twig"')
             publishHTML([
                 allowMissing: false, 
                 alwaysLinkToLastBuild: true, 
