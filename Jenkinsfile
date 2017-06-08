@@ -53,7 +53,7 @@ node("master") {
                         sh('git config git-ftp.url ftp://46.105.92.169/test/')
                         sh('git config git-ftp.password ${FTP_PASSWORD}')
                         
-                        sh('git ftp push --auto-init')
+                        sh('git ftp init')
                     }
                 }
             }
@@ -65,7 +65,7 @@ node("master") {
         stage('cleanup') {
             // Recursively delete all files and folders in the workspace
             // using the built-in pipeline command
-            deleteDir()
+            cleanWs()
         }
     }
 }
