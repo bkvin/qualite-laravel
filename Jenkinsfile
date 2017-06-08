@@ -46,7 +46,7 @@ node("master") {
             withCredentials([[$class: 'UsernamePasswordMultiBinding', credentialsId: 'cd435227-8d21-43c6-ad40-7a24dff92abd', usernameVariable: 'FTP_USERNAME', passwordVariable: 'FTP_PASSWORD']]) {
                 
                 if(IS_MODIFIED) {
-                    sh('git ftp push --user ${FTP_USERNAME} --passwd ${FTP_PASSWORD} ftp://46.105.92.169/test/')
+                    sh('git ftp init --user ${FTP_USERNAME} --passwd ${FTP_PASSWORD} ftp://46.105.92.169/test/')
                 }
             }
         }
