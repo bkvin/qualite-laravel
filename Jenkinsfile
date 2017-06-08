@@ -55,7 +55,7 @@ node("master") {
                         
                         sh('git ftp catchup')
                         
-                        sh('git ftp init'
+                        sh('git ftp init')
                         
                         sh('git ftp push')
                     }
