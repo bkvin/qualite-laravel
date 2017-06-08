@@ -1,6 +1,6 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
-[Coverage Status](https://coveralls.io/repos/github/bkvin/qualite-laravel/badge.svg?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/bkvin/qualite-laravel/badge.svg?branch=master)](https://coveralls.io/github/bkvin/qualite-laravel?branch=master)
 
 ## About Laravel
 
