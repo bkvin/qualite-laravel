@@ -17,253 +17,253 @@
 <path fill="none" stroke="gray" d="M630.246,-594.642C630.246,-594.642 1264.62,-594.642 1264.62,-594.642 1270.62,-594.642 1276.62,-600.642 1276.62,-606.642 1276.62,-606.642 1276.62,-1714.64 1276.62,-1714.64 1276.62,-1720.64 1270.62,-1726.64 1264.62,-1726.64 1264.62,-1726.64 630.246,-1726.64 630.246,-1726.64 624.246,-1726.64 618.246,-1720.64 618.246,-1714.64 618.246,-1714.64 618.246,-606.642 618.246,-606.642 618.246,-600.642 624.246,-594.642 630.246,-594.642"/>
 <text text-anchor="middle" x="947.432" y="-1713.84" font-family="Times,serif" font-size="11.00" fill="gray">App</text>
 </g>
-<g id="clust3" class="cluster"><title>cluster_\App\Http</title>
+<g id="clust3" class="cluster"><title>cluster_\App\Exceptions</title>
+<path fill="none" stroke="gray" d="M1126.12,-1024.64C1126.12,-1024.64 1183.12,-1024.64 1183.12,-1024.64 1189.12,-1024.64 1195.12,-1030.64 1195.12,-1036.64 1195.12,-1036.64 1195.12,-1084.64 1195.12,-1084.64 1195.12,-1090.64 1189.12,-1096.64 1183.12,-1096.64 1183.12,-1096.64 1126.12,-1096.64 1126.12,-1096.64 1120.12,-1096.64 1114.12,-1090.64 1114.12,-1084.64 1114.12,-1084.64 1114.12,-1036.64 1114.12,-1036.64 1114.12,-1030.64 1120.12,-1024.64 1126.12,-1024.64"/>
+<text text-anchor="middle" x="1154.62" y="-1083.84" font-family="Times,serif" font-size="11.00" fill="gray">Exceptions</text>
+</g>
+<g id="clust4" class="cluster"><title>cluster_\App\Providers</title>
+<path fill="none" stroke="gray" d="M1069.62,-728.642C1069.62,-728.642 1240.62,-728.642 1240.62,-728.642 1246.62,-728.642 1252.62,-734.642 1252.62,-740.642 1252.62,-740.642 1252.62,-1004.64 1252.62,-1004.64 1252.62,-1010.64 1246.62,-1016.64 1240.62,-1016.64 1240.62,-1016.64 1069.62,-1016.64 1069.62,-1016.64 1063.62,-1016.64 1057.62,-1010.64 1057.62,-1004.64 1057.62,-1004.64 1057.62,-740.642 1057.62,-740.642 1057.62,-734.642 1063.62,-728.642 1069.62,-728.642"/>
+<text text-anchor="middle" x="1155.12" y="-1003.84" font-family="Times,serif" font-size="11.00" fill="gray">Providers</text>
+</g>
+<g id="clust5" class="cluster"><title>cluster_\App\Console</title>
+<path fill="none" stroke="gray" d="M1130.62,-648.642C1130.62,-648.642 1179.62,-648.642 1179.62,-648.642 1185.62,-648.642 1191.62,-654.642 1191.62,-660.642 1191.62,-660.642 1191.62,-708.642 1191.62,-708.642 1191.62,-714.642 1185.62,-720.642 1179.62,-720.642 1179.62,-720.642 1130.62,-720.642 1130.62,-720.642 1124.62,-720.642 1118.62,-714.642 1118.62,-708.642 1118.62,-708.642 1118.62,-660.642 1118.62,-660.642 1118.62,-654.642 1124.62,-648.642 1130.62,-648.642"/>
+<text text-anchor="middle" x="1155.12" y="-707.842" font-family="Times,serif" font-size="11.00" fill="gray">Console</text>
+</g>
+<g id="clust6" class="cluster"><title>cluster_\App\Http</title>
 <path fill="none" stroke="gray" d="M638.246,-1104.64C638.246,-1104.64 1256.62,-1104.64 1256.62,-1104.64 1262.62,-1104.64 1268.62,-1110.64 1268.62,-1116.64 1268.62,-1116.64 1268.62,-1686.64 1268.62,-1686.64 1268.62,-1692.64 1262.62,-1698.64 1256.62,-1698.64 1256.62,-1698.64 638.246,-1698.64 638.246,-1698.64 632.246,-1698.64 626.246,-1692.64 626.246,-1686.64 626.246,-1686.64 626.246,-1116.64 626.246,-1116.64 626.246,-1110.64 632.246,-1104.64 638.246,-1104.64"/>
 <text text-anchor="middle" x="947.432" y="-1685.84" font-family="Times,serif" font-size="11.00" fill="gray">Http</text>
 </g>
-<g id="clust4" class="cluster"><title>cluster_\App\Http\Controllers</title>
+<g id="clust7" class="cluster"><title>cluster_\App\Http\Controllers</title>
 <path fill="none" stroke="gray" d="M646.246,-1400.64C646.246,-1400.64 1248.62,-1400.64 1248.62,-1400.64 1254.62,-1400.64 1260.62,-1406.64 1260.62,-1412.64 1260.62,-1412.64 1260.62,-1658.64 1260.62,-1658.64 1260.62,-1664.64 1254.62,-1670.64 1248.62,-1670.64 1248.62,-1670.64 646.246,-1670.64 646.246,-1670.64 640.246,-1670.64 634.246,-1664.64 634.246,-1658.64 634.246,-1658.64 634.246,-1412.64 634.246,-1412.64 634.246,-1406.64 640.246,-1400.64 646.246,-1400.64"/>
 <text text-anchor="middle" x="947.432" y="-1657.84" font-family="Times,serif" font-size="11.00" fill="gray">Controllers</text>
 </g>
-<g id="clust5" class="cluster"><title>cluster_\App\Http\Controllers\Auth</title>
+<g id="clust8" class="cluster"><title>cluster_\App\Http\Controllers\Auth</title>
 <path fill="none" stroke="gray" d="M1069.62,-1408.64C1069.62,-1408.64 1240.62,-1408.64 1240.62,-1408.64 1246.62,-1408.64 1252.62,-1414.64 1252.62,-1420.64 1252.62,-1420.64 1252.62,-1630.64 1252.62,-1630.64 1252.62,-1636.64 1246.62,-1642.64 1240.62,-1642.64 1240.62,-1642.64 1069.62,-1642.64 1069.62,-1642.64 1063.62,-1642.64 1057.62,-1636.64 1057.62,-1630.64 1057.62,-1630.64 1057.62,-1420.64 1057.62,-1420.64 1057.62,-1414.64 1063.62,-1408.64 1069.62,-1408.64"/>
 <text text-anchor="middle" x="1155.12" y="-1629.84" font-family="Times,serif" font-size="11.00" fill="gray">Auth</text>
 </g>
-<g id="clust6" class="cluster"><title>cluster_\App\Http\Middleware</title>
+<g id="clust9" class="cluster"><title>cluster_\App\Http\Middleware</title>
 <path fill="none" stroke="gray" d="M1073.12,-1158.64C1073.12,-1158.64 1237.12,-1158.64 1237.12,-1158.64 1243.12,-1158.64 1249.12,-1164.64 1249.12,-1170.64 1249.12,-1170.64 1249.12,-1380.64 1249.12,-1380.64 1249.12,-1386.64 1243.12,-1392.64 1237.12,-1392.64 1237.12,-1392.64 1073.12,-1392.64 1073.12,-1392.64 1067.12,-1392.64 1061.12,-1386.64 1061.12,-1380.64 1061.12,-1380.64 1061.12,-1170.64 1061.12,-1170.64 1061.12,-1164.64 1067.12,-1158.64 1073.12,-1158.64"/>
 <text text-anchor="middle" x="1155.12" y="-1379.84" font-family="Times,serif" font-size="11.00" fill="gray">Middleware</text>
 </g>
-<g id="clust7" class="cluster"><title>cluster_\App\Console</title>
-<path fill="none" stroke="gray" d="M1130.62,-1024.64C1130.62,-1024.64 1179.62,-1024.64 1179.62,-1024.64 1185.62,-1024.64 1191.62,-1030.64 1191.62,-1036.64 1191.62,-1036.64 1191.62,-1084.64 1191.62,-1084.64 1191.62,-1090.64 1185.62,-1096.64 1179.62,-1096.64 1179.62,-1096.64 1130.62,-1096.64 1130.62,-1096.64 1124.62,-1096.64 1118.62,-1090.64 1118.62,-1084.64 1118.62,-1084.64 1118.62,-1036.64 1118.62,-1036.64 1118.62,-1030.64 1124.62,-1024.64 1130.62,-1024.64"/>
-<text text-anchor="middle" x="1155.12" y="-1083.84" font-family="Times,serif" font-size="11.00" fill="gray">Console</text>
+<!-- \\App\\Exceptions\\Handler -->
+<g id="node1" class="node"><title>\\App\\Exceptions\\Handler</title>
+<polygon fill="none" stroke="black" points="1187.12,-1068.64 1123.12,-1068.64 1123.12,-1032.64 1187.12,-1032.64 1187.12,-1068.64"/>
+<text text-anchor="middle" x="1155.12" y="-1047.84" font-family="Courier,monospace" font-size="11.00">Handler</text>
 </g>
-<g id="clust8" class="cluster"><title>cluster_\App\Exceptions</title>
-<path fill="none" stroke="gray" d="M1126.12,-944.642C1126.12,-944.642 1183.12,-944.642 1183.12,-944.642 1189.12,-944.642 1195.12,-950.642 1195.12,-956.642 1195.12,-956.642 1195.12,-1004.64 1195.12,-1004.64 1195.12,-1010.64 1189.12,-1016.64 1183.12,-1016.64 1183.12,-1016.64 1126.12,-1016.64 1126.12,-1016.64 1120.12,-1016.64 1114.12,-1010.64 1114.12,-1004.64 1114.12,-1004.64 1114.12,-956.642 1114.12,-956.642 1114.12,-950.642 1120.12,-944.642 1126.12,-944.642"/>
-<text text-anchor="middle" x="1154.62" y="-1003.84" font-family="Times,serif" font-size="11.00" fill="gray">Exceptions</text>
+<!-- \\Illuminate\\Foundation\\Exceptions\\Handler -->
+<g id="node19" class="node"><title>\\Illuminate\\Foundation\\Exceptions\\Handler</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-344.642" rx="211.762" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-340.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Exceptions\Handler</text>
 </g>
-<g id="clust9" class="cluster"><title>cluster_\App\Providers</title>
-<path fill="none" stroke="gray" d="M1069.62,-648.642C1069.62,-648.642 1240.62,-648.642 1240.62,-648.642 1246.62,-648.642 1252.62,-654.642 1252.62,-660.642 1252.62,-660.642 1252.62,-924.642 1252.62,-924.642 1252.62,-930.642 1246.62,-936.642 1240.62,-936.642 1240.62,-936.642 1069.62,-936.642 1069.62,-936.642 1063.62,-936.642 1057.62,-930.642 1057.62,-924.642 1057.62,-924.642 1057.62,-660.642 1057.62,-660.642 1057.62,-654.642 1063.62,-648.642 1069.62,-648.642"/>
-<text text-anchor="middle" x="1155.12" y="-923.842" font-family="Times,serif" font-size="11.00" fill="gray">Providers</text>
+<!-- \\App\\Exceptions\\Handler&#45;&gt;\\Illuminate\\Foundation\\Exceptions\\Handler -->
+<g id="edge1" class="edge"><title>\\App\\Exceptions\\Handler&#45;&gt;\\Illuminate\\Foundation\\Exceptions\\Handler</title>
+<path fill="none" stroke="black" d="M1123.12,-1049.58C1101.33,-1047.07 1073.36,-1039.95 1057.62,-1020.64 966.06,-908.306 1096.65,-473.554 993.618,-371.642 935.35,-314.009 837.073,-315.459 767.131,-326.052"/>
+<polygon fill="none" stroke="black" points="766.344,-322.634 757.026,-327.676 767.454,-329.545 766.344,-322.634"/>
 </g>
-<!-- \\App\\Http\\Controllers\\Auth\\LoginController -->
-<g id="node1" class="node"><title>\\App\\Http\\Controllers\\Auth\\LoginController</title>
-<polygon fill="none" stroke="black" points="1214.12,-1614.64 1096.12,-1614.64 1096.12,-1578.64 1214.12,-1578.64 1214.12,-1614.64"/>
-<text text-anchor="middle" x="1155.12" y="-1593.84" font-family="Courier,monospace" font-size="11.00">LoginController</text>
+<!-- \\App\\Providers\\AuthServiceProvider -->
+<g id="node2" class="node"><title>\\App\\Providers\\AuthServiceProvider</title>
+<polygon fill="none" stroke="black" points="1227.62,-988.642 1082.62,-988.642 1082.62,-952.642 1227.62,-952.642 1227.62,-988.642"/>
+<text text-anchor="middle" x="1155.12" y="-967.842" font-family="Courier,monospace" font-size="11.00">AuthServiceProvider</text>
+</g>
+<!-- \\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider -->
+<g id="node20" class="node"><title>\\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-290.642" rx="304.346" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-286.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Support\Providers\AuthServiceProvider</text>
+</g>
+<!-- \\App\\Providers\\AuthServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider -->
+<g id="edge2" class="edge"><title>\\App\\Providers\\AuthServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider</title>
+<path fill="none" stroke="black" d="M1082.38,-961.231C1072.92,-957.16 1064.23,-951.493 1057.62,-943.642 967.541,-836.684 1093.21,-415.8 993.618,-317.642 936.159,-261.013 840.05,-261.514 770.378,-271.616"/>
+<polygon fill="none" stroke="black" points="769.648,-268.187 760.298,-273.17 770.715,-275.105 769.648,-268.187"/>
+</g>
+<!-- \\App\\Providers\\AppServiceProvider -->
+<g id="node3" class="node"><title>\\App\\Providers\\AppServiceProvider</title>
+<polygon fill="none" stroke="black" points="1224.12,-934.642 1086.12,-934.642 1086.12,-898.642 1224.12,-898.642 1224.12,-934.642"/>
+<text text-anchor="middle" x="1155.12" y="-913.842" font-family="Courier,monospace" font-size="11.00">AppServiceProvider</text>
+</g>
+<!-- \\Illuminate\\Support\\ServiceProvider -->
+<g id="node23" class="node"><title>\\Illuminate\\Support\\ServiceProvider</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-236.642" rx="178.969" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-232.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Support\ServiceProvider</text>
+</g>
+<!-- \\App\\Providers\\AppServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider -->
+<g id="edge5" class="edge"><title>\\App\\Providers\\AppServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider</title>
+<path fill="none" stroke="black" d="M1085.78,-908.614C1075.01,-904.473 1065.01,-898.425 1057.62,-889.642 967.541,-782.684 1093.21,-361.8 993.618,-263.642 934.699,-205.575 835.144,-207.576 765.122,-218.403"/>
+<polygon fill="none" stroke="black" points="764.316,-214.988 755.014,-220.058 765.448,-221.896 764.316,-214.988"/>
+</g>
+<!-- \\App\\Providers\\BroadcastServiceProvider -->
+<g id="node4" class="node"><title>\\App\\Providers\\BroadcastServiceProvider</title>
+<polygon fill="none" stroke="black" points="1244.62,-880.642 1065.62,-880.642 1065.62,-844.642 1244.62,-844.642 1244.62,-880.642"/>
+<text text-anchor="middle" x="1155.12" y="-859.842" font-family="Courier,monospace" font-size="11.00">BroadcastServiceProvider</text>
+</g>
+<!-- \\App\\Providers\\BroadcastServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider -->
+<g id="edge11" class="edge"><title>\\App\\Providers\\BroadcastServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider</title>
+<path fill="none" stroke="black" d="M1067.08,-844.458C1063.62,-841.879 1060.44,-838.956 1057.62,-835.642 974.761,-738.204 1085.14,-352.989 993.618,-263.642 934.606,-206.035 835.539,-207.789 765.641,-218.438"/>
+<polygon fill="none" stroke="black" points="764.862,-215.018 755.548,-220.068 765.978,-221.929 764.862,-215.018"/>
+</g>
+<!-- \\App\\Providers\\RouteServiceProvider -->
+<g id="node5" class="node"><title>\\App\\Providers\\RouteServiceProvider</title>
+<polygon fill="none" stroke="black" points="1231.12,-826.642 1079.12,-826.642 1079.12,-790.642 1231.12,-790.642 1231.12,-826.642"/>
+<text text-anchor="middle" x="1155.12" y="-805.842" font-family="Courier,monospace" font-size="11.00">RouteServiceProvider</text>
+</g>
+<!-- \\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider -->
+<g id="node27" class="node"><title>\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-182.642" rx="309.245" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-178.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Support\Providers\RouteServiceProvider</text>
+</g>
+<!-- \\App\\Providers\\RouteServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider -->
+<g id="edge12" class="edge"><title>\\App\\Providers\\RouteServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider</title>
+<path fill="none" stroke="black" d="M1079.11,-797.661C1070.94,-793.74 1063.48,-788.534 1057.62,-781.642 974.761,-684.204 1085.14,-298.989 993.618,-209.642 936.072,-153.466 840.437,-153.739 770.903,-163.661"/>
+<polygon fill="none" stroke="black" points="770.202,-160.228 760.841,-165.19 771.254,-167.148 770.202,-160.228"/>
+</g>
+<!-- \\App\\Providers\\EventServiceProvider -->
+<g id="node6" class="node"><title>\\App\\Providers\\EventServiceProvider</title>
+<polygon fill="none" stroke="black" points="1231.12,-772.642 1079.12,-772.642 1079.12,-736.642 1231.12,-736.642 1231.12,-772.642"/>
+<text text-anchor="middle" x="1155.12" y="-751.842" font-family="Courier,monospace" font-size="11.00">EventServiceProvider</text>
+</g>
+<!-- \\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider -->
+<g id="node28" class="node"><title>\\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-128.642" rx="309.245" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-124.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Support\Providers\EventServiceProvider</text>
+</g>
+<!-- \\App\\Providers\\EventServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider -->
+<g id="edge14" class="edge"><title>\\App\\Providers\\EventServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider</title>
+<path fill="none" stroke="black" d="M1079.02,-741.249C1070.86,-737.088 1063.43,-731.675 1057.62,-724.642 976.556,-626.564 1084.69,-244.499 993.618,-155.642 936.056,-99.4832 840.423,-99.7526 770.895,-109.67"/>
+<polygon fill="none" stroke="black" points="770.195,-106.236 760.834,-111.198 771.246,-113.157 770.195,-106.236"/>
+</g>
+<!-- \\App\\Console\\Kernel -->
+<g id="node7" class="node"><title>\\App\\Console\\Kernel</title>
+<polygon fill="none" stroke="black" points="1183.62,-692.642 1126.62,-692.642 1126.62,-656.642 1183.62,-656.642 1183.62,-692.642"/>
+<text text-anchor="middle" x="1155.12" y="-671.842" font-family="Courier,monospace" font-size="11.00">Kernel</text>
+</g>
+<!-- \\Illuminate\\Foundation\\Console\\Kernel -->
+<g id="node21" class="node"><title>\\Illuminate\\Foundation\\Console\\Kernel</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-74.6425" rx="189.567" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-70.9425" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Console\Kernel</text>
+</g>
+<!-- \\App\\Console\\Kernel&#45;&gt;\\Illuminate\\Foundation\\Console\\Kernel -->
+<g id="edge3" class="edge"><title>\\App\\Console\\Kernel&#45;&gt;\\Illuminate\\Foundation\\Console\\Kernel</title>
+<path fill="none" stroke="black" d="M1126.6,-676.314C1104.6,-676.028 1074.71,-671.702 1057.62,-652.642 893.002,-469.118 1170.39,-273.485 993.618,-101.642 934.76,-44.4273 836.364,-45.8739 766.56,-56.3501"/>
+<polygon fill="none" stroke="black" points="765.802,-52.9266 756.477,-57.9554 766.903,-59.8395 765.802,-52.9266"/>
+</g>
+<!-- \\App\\Http\\Controllers\\Auth\\ResetPasswordController -->
+<g id="node8" class="node"><title>\\App\\Http\\Controllers\\Auth\\ResetPasswordController</title>
+<polygon fill="none" stroke="black" points="1241.12,-1614.64 1069.12,-1614.64 1069.12,-1578.64 1241.12,-1578.64 1241.12,-1614.64"/>
+<text text-anchor="middle" x="1155.12" y="-1593.84" font-family="Courier,monospace" font-size="11.00">ResetPasswordController</text>
 </g>
 <!-- \\App\\Http\\Controllers\\Controller -->
-<g id="node5" class="node"><title>\\App\\Http\\Controllers\\Controller</title>
+<g id="node12" class="node"><title>\\App\\Http\\Controllers\\Controller</title>
 <polygon fill="none" stroke="black" points="726.246,-1533.64 642.246,-1533.64 642.246,-1497.64 726.246,-1497.64 726.246,-1533.64"/>
 <text text-anchor="middle" x="684.246" y="-1512.84" font-family="Courier,monospace" font-size="11.00">Controller</text>
 </g>
-<!-- \\App\\Http\\Controllers\\Auth\\LoginController&#45;&gt;\\App\\Http\\Controllers\\Controller -->
-<g id="edge3" class="edge"><title>\\App\\Http\\Controllers\\Auth\\LoginController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
-<path fill="none" stroke="black" d="M1095.68,-1586.55C1003.12,-1570.56 824.281,-1539.66 736.451,-1524.49"/>
-<polygon fill="none" stroke="black" points="736.907,-1521.02 726.457,-1522.76 735.715,-1527.91 736.907,-1521.02"/>
+<!-- \\App\\Http\\Controllers\\Auth\\ResetPasswordController&#45;&gt;\\App\\Http\\Controllers\\Controller -->
+<g id="edge6" class="edge"><title>\\App\\Http\\Controllers\\Auth\\ResetPasswordController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
+<path fill="none" stroke="black" d="M1068.94,-1581.93C972.036,-1565.19 816.897,-1538.39 736.808,-1524.55"/>
+<polygon fill="none" stroke="black" points="736.936,-1521.02 726.486,-1522.77 735.745,-1527.92 736.936,-1521.02"/>
 </g>
 <!-- \\App\\Http\\Controllers\\Auth\\RegisterController -->
-<g id="node2" class="node"><title>\\App\\Http\\Controllers\\Auth\\RegisterController</title>
+<g id="node9" class="node"><title>\\App\\Http\\Controllers\\Auth\\RegisterController</title>
 <polygon fill="none" stroke="black" points="1224.12,-1560.64 1086.12,-1560.64 1086.12,-1524.64 1224.12,-1524.64 1224.12,-1560.64"/>
 <text text-anchor="middle" x="1155.12" y="-1539.84" font-family="Courier,monospace" font-size="11.00">RegisterController</text>
 </g>
 <!-- \\App\\Http\\Controllers\\Auth\\RegisterController&#45;&gt;\\App\\Http\\Controllers\\Controller -->
-<g id="edge4" class="edge"><title>\\App\\Http\\Controllers\\Auth\\RegisterController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
+<g id="edge7" class="edge"><title>\\App\\Http\\Controllers\\Auth\\RegisterController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
 <path fill="none" stroke="black" d="M1085.94,-1538.72C991.096,-1533.25 821.453,-1523.49 736.571,-1518.6"/>
 <polygon fill="none" stroke="black" points="736.589,-1515.09 726.404,-1518.01 736.186,-1522.08 736.589,-1515.09"/>
 </g>
-<!-- \\App\\Http\\Controllers\\Auth\\ResetPasswordController -->
-<g id="node3" class="node"><title>\\App\\Http\\Controllers\\Auth\\ResetPasswordController</title>
-<polygon fill="none" stroke="black" points="1241.12,-1506.64 1069.12,-1506.64 1069.12,-1470.64 1241.12,-1470.64 1241.12,-1506.64"/>
-<text text-anchor="middle" x="1155.12" y="-1485.84" font-family="Courier,monospace" font-size="11.00">ResetPasswordController</text>
+<!-- \\App\\Http\\Controllers\\Auth\\LoginController -->
+<g id="node10" class="node"><title>\\App\\Http\\Controllers\\Auth\\LoginController</title>
+<polygon fill="none" stroke="black" points="1214.12,-1506.64 1096.12,-1506.64 1096.12,-1470.64 1214.12,-1470.64 1214.12,-1506.64"/>
+<text text-anchor="middle" x="1155.12" y="-1485.84" font-family="Courier,monospace" font-size="11.00">LoginController</text>
 </g>
-<!-- \\App\\Http\\Controllers\\Auth\\ResetPasswordController&#45;&gt;\\App\\Http\\Controllers\\Controller -->
-<g id="edge5" class="edge"><title>\\App\\Http\\Controllers\\Auth\\ResetPasswordController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
-<path fill="none" stroke="black" d="M1068.94,-1493.55C972.036,-1499.13 816.897,-1508.06 736.808,-1512.67"/>
-<polygon fill="none" stroke="black" points="736.269,-1509.2 726.486,-1513.27 736.671,-1516.19 736.269,-1509.2"/>
+<!-- \\App\\Http\\Controllers\\Auth\\LoginController&#45;&gt;\\App\\Http\\Controllers\\Controller -->
+<g id="edge13" class="edge"><title>\\App\\Http\\Controllers\\Auth\\LoginController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
+<path fill="none" stroke="black" d="M1095.68,-1492.01C1003.12,-1497.34 824.281,-1507.64 736.451,-1512.69"/>
+<polygon fill="none" stroke="black" points="736.239,-1509.2 726.457,-1513.27 736.642,-1516.19 736.239,-1509.2"/>
 </g>
 <!-- \\App\\Http\\Controllers\\Auth\\ForgotPasswordController -->
-<g id="node4" class="node"><title>\\App\\Http\\Controllers\\Auth\\ForgotPasswordController</title>
+<g id="node11" class="node"><title>\\App\\Http\\Controllers\\Auth\\ForgotPasswordController</title>
 <polygon fill="none" stroke="black" points="1244.62,-1452.64 1065.62,-1452.64 1065.62,-1416.64 1244.62,-1416.64 1244.62,-1452.64"/>
 <text text-anchor="middle" x="1155.12" y="-1431.84" font-family="Courier,monospace" font-size="11.00">ForgotPasswordController</text>
 </g>
 <!-- \\App\\Http\\Controllers\\Auth\\ForgotPasswordController&#45;&gt;\\App\\Http\\Controllers\\Controller -->
-<g id="edge6" class="edge"><title>\\App\\Http\\Controllers\\Auth\\ForgotPasswordController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
+<g id="edge17" class="edge"><title>\\App\\Http\\Controllers\\Auth\\ForgotPasswordController&#45;&gt;\\App\\Http\\Controllers\\Controller</title>
 <path fill="none" stroke="black" d="M1065.38,-1449.97C968.189,-1466.76 815.658,-1493.11 736.602,-1506.77"/>
 <polygon fill="none" stroke="black" points="735.667,-1503.38 726.409,-1508.53 736.859,-1510.28 735.667,-1503.38"/>
 </g>
 <!-- \\Illuminate\\Routing\\Controller -->
-<g id="node20" class="node"><title>\\Illuminate\\Routing\\Controller</title>
+<g id="node24" class="node"><title>\\Illuminate\\Routing\\Controller</title>
 <ellipse fill="none" stroke="black" cx="151.437" cy="-1515.64" rx="151.373" ry="18"/>
 <text text-anchor="middle" x="151.437" y="-1511.94" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Routing\Controller</text>
 </g>
 <!-- \\App\\Http\\Controllers\\Controller&#45;&gt;\\Illuminate\\Routing\\Controller -->
-<g id="edge2" class="edge"><title>\\App\\Http\\Controllers\\Controller&#45;&gt;\\Illuminate\\Routing\\Controller</title>
+<g id="edge8" class="edge"><title>\\App\\Http\\Controllers\\Controller&#45;&gt;\\Illuminate\\Routing\\Controller</title>
 <path fill="none" stroke="black" d="M642.036,-1515.64C572.283,-1515.64 427.404,-1515.64 313.254,-1515.64"/>
 <polygon fill="none" stroke="black" points="313.005,-1512.14 303.005,-1515.64 313.005,-1519.14 313.005,-1512.14"/>
 </g>
-<!-- \\App\\Http\\Middleware\\TrimStrings -->
-<g id="node6" class="node"><title>\\App\\Http\\Middleware\\TrimStrings</title>
-<polygon fill="none" stroke="black" points="1200.62,-1364.64 1109.62,-1364.64 1109.62,-1328.64 1200.62,-1328.64 1200.62,-1364.64"/>
-<text text-anchor="middle" x="1155.12" y="-1343.84" font-family="Courier,monospace" font-size="11.00">TrimStrings</text>
+<!-- \\App\\Http\\Middleware\\RedirectIfAuthenticated -->
+<g id="node13" class="node"><title>\\App\\Http\\Middleware\\RedirectIfAuthenticated</title>
+<polygon fill="none" stroke="black" points="1241.12,-1364.64 1069.12,-1364.64 1069.12,-1328.64 1241.12,-1328.64 1241.12,-1364.64"/>
+<text text-anchor="middle" x="1155.12" y="-1343.84" font-family="Courier,monospace" font-size="11.00">RedirectIfAuthenticated</text>
 </g>
-<!-- \\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings -->
-<g id="node21" class="node"><title>\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-560.642" rx="258.854" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-556.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Http\Middleware\TrimStrings</text>
+<!-- \\App\\Http\\Middleware\\EncryptCookies -->
+<g id="node14" class="node"><title>\\App\\Http\\Middleware\\EncryptCookies</title>
+<polygon fill="none" stroke="black" points="1210.62,-1310.64 1099.62,-1310.64 1099.62,-1274.64 1210.62,-1274.64 1210.62,-1310.64"/>
+<text text-anchor="middle" x="1155.12" y="-1289.84" font-family="Courier,monospace" font-size="11.00">EncryptCookies</text>
 </g>
-<!-- \\App\\Http\\Middleware\\TrimStrings&#45;&gt;\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings -->
-<g id="edge7" class="edge"><title>\\App\\Http\\Middleware\\TrimStrings&#45;&gt;\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings</title>
-<path fill="none" stroke="black" d="M1109.14,-1342.05C1091.5,-1338.34 1072.06,-1331.66 1057.62,-1319.64 809.162,-1113.01 712.639,-700.4 690.486,-588.944"/>
-<polygon fill="none" stroke="black" points="693.864,-587.977 688.518,-578.83 686.993,-589.315 693.864,-587.977"/>
+<!-- \\Illuminate\\Cookie\\Middleware\\EncryptCookies -->
+<g id="node26" class="node"><title>\\Illuminate\\Cookie\\Middleware\\EncryptCookies</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-560.642" rx="232.859" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-556.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Cookie\Middleware\EncryptCookies</text>
+</g>
+<!-- \\App\\Http\\Middleware\\EncryptCookies&#45;&gt;\\Illuminate\\Cookie\\Middleware\\EncryptCookies -->
+<g id="edge10" class="edge"><title>\\App\\Http\\Middleware\\EncryptCookies&#45;&gt;\\Illuminate\\Cookie\\Middleware\\EncryptCookies</title>
+<path fill="none" stroke="black" d="M1099.38,-1285.44C1084.66,-1281.45 1069.53,-1275.25 1057.62,-1265.64 821.705,-1075.32 716.926,-694.756 691.555,-588.668"/>
+<polygon fill="none" stroke="black" points="694.914,-587.662 689.219,-578.728 688.099,-589.263 694.914,-587.662"/>
 </g>
 <!-- \\App\\Http\\Middleware\\VerifyCsrfToken -->
-<g id="node7" class="node"><title>\\App\\Http\\Middleware\\VerifyCsrfToken</title>
-<polygon fill="none" stroke="black" points="1214.12,-1310.64 1096.12,-1310.64 1096.12,-1274.64 1214.12,-1274.64 1214.12,-1310.64"/>
-<text text-anchor="middle" x="1155.12" y="-1289.84" font-family="Courier,monospace" font-size="11.00">VerifyCsrfToken</text>
+<g id="node15" class="node"><title>\\App\\Http\\Middleware\\VerifyCsrfToken</title>
+<polygon fill="none" stroke="black" points="1214.12,-1256.64 1096.12,-1256.64 1096.12,-1220.64 1214.12,-1220.64 1214.12,-1256.64"/>
+<text text-anchor="middle" x="1155.12" y="-1235.84" font-family="Courier,monospace" font-size="11.00">VerifyCsrfToken</text>
 </g>
 <!-- \\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken -->
-<g id="node22" class="node"><title>\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken</title>
+<g id="node29" class="node"><title>\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken</title>
 <ellipse fill="none" stroke="black" cx="684.246" cy="-506.642" rx="278.351" ry="18"/>
 <text text-anchor="middle" x="684.246" y="-502.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Http\Middleware\VerifyCsrfToken</text>
 </g>
 <!-- \\App\\Http\\Middleware\\VerifyCsrfToken&#45;&gt;\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken -->
-<g id="edge8" class="edge"><title>\\App\\Http\\Middleware\\VerifyCsrfToken&#45;&gt;\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken</title>
-<path fill="none" stroke="black" d="M1096.11,-1288.11C1081.52,-1284.14 1067.28,-1277.29 1057.62,-1265.64 953.353,-1139.98 1109.07,-649.111 993.618,-533.642 936.123,-476.14 838.866,-477.179 768.935,-487.645"/>
-<polygon fill="none" stroke="black" points="768.15,-484.226 758.824,-489.252 769.249,-491.139 768.15,-484.226"/>
+<g id="edge15" class="edge"><title>\\App\\Http\\Middleware\\VerifyCsrfToken&#45;&gt;\\Illuminate\\Foundation\\Http\\Middleware\\VerifyCsrfToken</title>
+<path fill="none" stroke="black" d="M1095.91,-1233.99C1081.41,-1230.02 1067.27,-1223.19 1057.62,-1211.64 960.583,-1095.51 1100.99,-640.29 993.618,-533.642 936.015,-476.429 839.01,-477.339 769.166,-487.696"/>
+<polygon fill="none" stroke="black" points="768.4,-484.274 759.066,-489.287 769.489,-491.188 768.4,-484.274"/>
 </g>
-<!-- \\App\\Http\\Middleware\\RedirectIfAuthenticated -->
-<g id="node8" class="node"><title>\\App\\Http\\Middleware\\RedirectIfAuthenticated</title>
-<polygon fill="none" stroke="black" points="1241.12,-1256.64 1069.12,-1256.64 1069.12,-1220.64 1241.12,-1220.64 1241.12,-1256.64"/>
-<text text-anchor="middle" x="1155.12" y="-1235.84" font-family="Courier,monospace" font-size="11.00">RedirectIfAuthenticated</text>
+<!-- \\App\\Http\\Middleware\\TrimStrings -->
+<g id="node16" class="node"><title>\\App\\Http\\Middleware\\TrimStrings</title>
+<polygon fill="none" stroke="black" points="1200.62,-1202.64 1109.62,-1202.64 1109.62,-1166.64 1200.62,-1166.64 1200.62,-1202.64"/>
+<text text-anchor="middle" x="1155.12" y="-1181.84" font-family="Courier,monospace" font-size="11.00">TrimStrings</text>
 </g>
-<!-- \\App\\Http\\Middleware\\EncryptCookies -->
-<g id="node9" class="node"><title>\\App\\Http\\Middleware\\EncryptCookies</title>
-<polygon fill="none" stroke="black" points="1210.62,-1202.64 1099.62,-1202.64 1099.62,-1166.64 1210.62,-1166.64 1210.62,-1202.64"/>
-<text text-anchor="middle" x="1155.12" y="-1181.84" font-family="Courier,monospace" font-size="11.00">EncryptCookies</text>
+<!-- \\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings -->
+<g id="node30" class="node"><title>\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings</title>
+<ellipse fill="none" stroke="black" cx="684.246" cy="-452.642" rx="258.854" ry="18"/>
+<text text-anchor="middle" x="684.246" y="-448.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Http\Middleware\TrimStrings</text>
 </g>
-<!-- \\Illuminate\\Cookie\\Middleware\\EncryptCookies -->
-<g id="node23" class="node"><title>\\Illuminate\\Cookie\\Middleware\\EncryptCookies</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-452.642" rx="232.859" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-448.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Cookie\Middleware\EncryptCookies</text>
-</g>
-<!-- \\App\\Http\\Middleware\\EncryptCookies&#45;&gt;\\Illuminate\\Cookie\\Middleware\\EncryptCookies -->
-<g id="edge9" class="edge"><title>\\App\\Http\\Middleware\\EncryptCookies&#45;&gt;\\Illuminate\\Cookie\\Middleware\\EncryptCookies</title>
-<path fill="none" stroke="black" d="M1099.39,-1183.85C1083.77,-1180.84 1068.16,-1174.66 1057.62,-1162.64 957.095,-1048.04 1101.74,-587.107 993.618,-479.642 935.672,-422.048 837.8,-423.336 767.857,-433.883"/>
-<polygon fill="none" stroke="black" points="767.07,-430.465 757.748,-435.501 768.176,-437.377 767.07,-430.465"/>
+<!-- \\App\\Http\\Middleware\\TrimStrings&#45;&gt;\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings -->
+<g id="edge16" class="edge"><title>\\App\\Http\\Middleware\\TrimStrings&#45;&gt;\\Illuminate\\Foundation\\Http\\Middleware\\TrimStrings</title>
+<path fill="none" stroke="black" d="M1109.41,-1185.38C1090.72,-1183.24 1070.42,-1177.24 1057.62,-1162.64 957.095,-1048.04 1101.74,-587.107 993.618,-479.642 935.853,-422.229 838.414,-423.329 768.516,-433.785"/>
+<polygon fill="none" stroke="black" points="767.738,-430.364 758.411,-435.389 768.836,-437.278 767.738,-430.364"/>
 </g>
 <!-- \\App\\Http\\Kernel -->
-<g id="node10" class="node"><title>\\App\\Http\\Kernel</title>
+<g id="node17" class="node"><title>\\App\\Http\\Kernel</title>
 <polygon fill="none" stroke="black" points="1183.62,-1148.64 1126.62,-1148.64 1126.62,-1112.64 1183.62,-1112.64 1183.62,-1148.64"/>
 <text text-anchor="middle" x="1155.12" y="-1127.84" font-family="Courier,monospace" font-size="11.00">Kernel</text>
 </g>
 <!-- \\Illuminate\\Foundation\\Http\\Kernel -->
-<g id="node19" class="node"><title>\\Illuminate\\Foundation\\Http\\Kernel</title>
+<g id="node25" class="node"><title>\\Illuminate\\Foundation\\Http\\Kernel</title>
 <ellipse fill="none" stroke="black" cx="684.246" cy="-398.642" rx="174.669" ry="18"/>
 <text text-anchor="middle" x="684.246" y="-394.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Http\Kernel</text>
 </g>
 <!-- \\App\\Http\\Kernel&#45;&gt;\\Illuminate\\Foundation\\Http\\Kernel -->
-<g id="edge1" class="edge"><title>\\App\\Http\\Kernel&#45;&gt;\\Illuminate\\Foundation\\Http\\Kernel</title>
+<g id="edge9" class="edge"><title>\\App\\Http\\Kernel&#45;&gt;\\Illuminate\\Foundation\\Http\\Kernel</title>
 <path fill="none" stroke="black" d="M1126.27,-1129.94C1104.08,-1127.77 1074.1,-1120.94 1057.62,-1100.64 962.647,-983.669 1100.54,-531.8 993.618,-425.642 934.64,-367.088 834.388,-369.424 764.249,-380.452"/>
 <polygon fill="none" stroke="black" points="763.418,-377.042 754.128,-382.136 764.567,-383.948 763.418,-377.042"/>
-</g>
-<!-- \\App\\Console\\Kernel -->
-<g id="node11" class="node"><title>\\App\\Console\\Kernel</title>
-<polygon fill="none" stroke="black" points="1183.62,-1068.64 1126.62,-1068.64 1126.62,-1032.64 1183.62,-1032.64 1183.62,-1068.64"/>
-<text text-anchor="middle" x="1155.12" y="-1047.84" font-family="Courier,monospace" font-size="11.00">Kernel</text>
-</g>
-<!-- \\Illuminate\\Foundation\\Console\\Kernel -->
-<g id="node24" class="node"><title>\\Illuminate\\Foundation\\Console\\Kernel</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-344.642" rx="189.567" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-340.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Console\Kernel</text>
-</g>
-<!-- \\App\\Console\\Kernel&#45;&gt;\\Illuminate\\Foundation\\Console\\Kernel -->
-<g id="edge10" class="edge"><title>\\App\\Console\\Kernel&#45;&gt;\\Illuminate\\Foundation\\Console\\Kernel</title>
-<path fill="none" stroke="black" d="M1126.29,-1049.92C1104.11,-1047.74 1074.13,-1040.91 1057.62,-1020.64 966.06,-908.306 1096.65,-473.554 993.618,-371.642 934.986,-313.649 835.843,-315.48 765.823,-326.252"/>
-<polygon fill="none" stroke="black" points="765.019,-322.837 755.712,-327.9 766.145,-329.746 765.019,-322.837"/>
-</g>
-<!-- \\App\\Exceptions\\Handler -->
-<g id="node12" class="node"><title>\\App\\Exceptions\\Handler</title>
-<polygon fill="none" stroke="black" points="1187.12,-988.642 1123.12,-988.642 1123.12,-952.642 1187.12,-952.642 1187.12,-988.642"/>
-<text text-anchor="middle" x="1155.12" y="-967.842" font-family="Courier,monospace" font-size="11.00">Handler</text>
-</g>
-<!-- \\Illuminate\\Foundation\\Exceptions\\Handler -->
-<g id="node25" class="node"><title>\\Illuminate\\Foundation\\Exceptions\\Handler</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-290.642" rx="211.762" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-286.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Exceptions\Handler</text>
-</g>
-<!-- \\App\\Exceptions\\Handler&#45;&gt;\\Illuminate\\Foundation\\Exceptions\\Handler -->
-<g id="edge11" class="edge"><title>\\App\\Exceptions\\Handler&#45;&gt;\\Illuminate\\Foundation\\Exceptions\\Handler</title>
-<path fill="none" stroke="black" d="M1122.68,-969.509C1100.97,-966.943 1073.29,-959.786 1057.62,-940.642 969.473,-832.942 1092.77,-415.31 993.618,-317.642 935.232,-260.128 836.978,-261.555 767.074,-272.111"/>
-<polygon fill="none" stroke="black" points="766.294,-268.691 756.974,-273.728 767.401,-275.603 766.294,-268.691"/>
-</g>
-<!-- \\App\\Providers\\BroadcastServiceProvider -->
-<g id="node13" class="node"><title>\\App\\Providers\\BroadcastServiceProvider</title>
-<polygon fill="none" stroke="black" points="1244.62,-908.642 1065.62,-908.642 1065.62,-872.642 1244.62,-872.642 1244.62,-908.642"/>
-<text text-anchor="middle" x="1155.12" y="-887.842" font-family="Courier,monospace" font-size="11.00">BroadcastServiceProvider</text>
-</g>
-<!-- \\Illuminate\\Support\\ServiceProvider -->
-<g id="node26" class="node"><title>\\Illuminate\\Support\\ServiceProvider</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-236.642" rx="178.969" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-232.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Support\ServiceProvider</text>
-</g>
-<!-- \\App\\Providers\\BroadcastServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider -->
-<g id="edge12" class="edge"><title>\\App\\Providers\\BroadcastServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider</title>
-<path fill="none" stroke="black" d="M1067.06,-872.476C1063.61,-869.892 1060.43,-866.963 1057.62,-863.642 971.018,-761.269 1089.33,-357.557 993.618,-263.642 934.664,-205.793 835.35,-207.673 765.387,-218.415"/>
-<polygon fill="none" stroke="black" points="764.594,-214.998 755.285,-220.058 765.717,-221.907 764.594,-214.998"/>
-</g>
-<!-- \\App\\Providers\\AppServiceProvider -->
-<g id="node14" class="node"><title>\\App\\Providers\\AppServiceProvider</title>
-<polygon fill="none" stroke="black" points="1224.12,-854.642 1086.12,-854.642 1086.12,-818.642 1224.12,-818.642 1224.12,-854.642"/>
-<text text-anchor="middle" x="1155.12" y="-833.842" font-family="Courier,monospace" font-size="11.00">AppServiceProvider</text>
-</g>
-<!-- \\App\\Providers\\AppServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider -->
-<g id="edge13" class="edge"><title>\\App\\Providers\\AppServiceProvider&#45;&gt;\\Illuminate\\Support\\ServiceProvider</title>
-<path fill="none" stroke="black" d="M1085.88,-828.523C1075.11,-824.392 1065.08,-818.37 1057.62,-809.642 898.852,-623.929 1168.9,-433.855 993.618,-263.642 934.547,-206.28 835.725,-207.908 765.893,-218.463"/>
-<polygon fill="none" stroke="black" points="765.129,-215.041 755.809,-220.08 766.237,-221.953 765.129,-215.041"/>
-</g>
-<!-- \\App\\Providers\\EventServiceProvider -->
-<g id="node15" class="node"><title>\\App\\Providers\\EventServiceProvider</title>
-<polygon fill="none" stroke="black" points="1231.12,-800.642 1079.12,-800.642 1079.12,-764.642 1231.12,-764.642 1231.12,-800.642"/>
-<text text-anchor="middle" x="1155.12" y="-779.842" font-family="Courier,monospace" font-size="11.00">EventServiceProvider</text>
-</g>
-<!-- \\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider -->
-<g id="node27" class="node"><title>\\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-182.642" rx="309.245" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-178.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Support\Providers\EventServiceProvider</text>
-</g>
-<!-- \\App\\Providers\\EventServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider -->
-<g id="edge14" class="edge"><title>\\App\\Providers\\EventServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\EventServiceProvider</title>
-<path fill="none" stroke="black" d="M1078.67,-771.404C1070.68,-767.515 1063.38,-762.386 1057.62,-755.642 898.852,-569.929 1168.9,-379.855 993.618,-209.642 936.108,-153.796 840.923,-153.864 771.492,-163.646"/>
-<polygon fill="none" stroke="black" points="770.812,-160.209 761.442,-165.154 771.851,-167.131 770.812,-160.209"/>
-</g>
-<!-- \\App\\Providers\\AuthServiceProvider -->
-<g id="node16" class="node"><title>\\App\\Providers\\AuthServiceProvider</title>
-<polygon fill="none" stroke="black" points="1227.62,-746.642 1082.62,-746.642 1082.62,-710.642 1227.62,-710.642 1227.62,-746.642"/>
-<text text-anchor="middle" x="1155.12" y="-725.842" font-family="Courier,monospace" font-size="11.00">AuthServiceProvider</text>
-</g>
-<!-- \\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider -->
-<g id="node28" class="node"><title>\\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-128.642" rx="304.346" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-124.942" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Support\Providers\AuthServiceProvider</text>
-</g>
-<!-- \\App\\Providers\\AuthServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider -->
-<g id="edge15" class="edge"><title>\\App\\Providers\\AuthServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\AuthServiceProvider</title>
-<path fill="none" stroke="black" d="M1082.48,-719.144C1073.01,-715.084 1064.29,-709.444 1057.62,-701.642 898.852,-515.929 1168.9,-325.855 993.618,-155.642 936.017,-99.7072 840.619,-99.8639 771.159,-109.693"/>
-<polygon fill="none" stroke="black" points="770.473,-106.257 761.107,-111.208 771.517,-113.178 770.473,-106.257"/>
-</g>
-<!-- \\App\\Providers\\RouteServiceProvider -->
-<g id="node17" class="node"><title>\\App\\Providers\\RouteServiceProvider</title>
-<polygon fill="none" stroke="black" points="1231.12,-692.642 1079.12,-692.642 1079.12,-656.642 1231.12,-656.642 1231.12,-692.642"/>
-<text text-anchor="middle" x="1155.12" y="-671.842" font-family="Courier,monospace" font-size="11.00">RouteServiceProvider</text>
-</g>
-<!-- \\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider -->
-<g id="node29" class="node"><title>\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider</title>
-<ellipse fill="none" stroke="black" cx="684.246" cy="-74.6425" rx="309.245" ry="18"/>
-<text text-anchor="middle" x="684.246" y="-70.9425" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Support\Providers\RouteServiceProvider</text>
-</g>
-<!-- \\App\\Providers\\RouteServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider -->
-<g id="edge16" class="edge"><title>\\App\\Providers\\RouteServiceProvider&#45;&gt;\\Illuminate\\Foundation\\Support\\Providers\\RouteServiceProvider</title>
-<path fill="none" stroke="black" d="M1078.84,-667.464C1070.82,-663.964 1063.47,-659.166 1057.62,-652.642 893.002,-469.118 1170.39,-273.485 993.618,-101.642 936.046,-45.6769 840.643,-45.8387 771.174,-55.6771"/>
-<polygon fill="none" stroke="black" points="770.487,-52.2411 761.121,-57.1934 771.531,-59.1629 770.487,-52.2411"/>
 </g>
 <!-- \\App\\User -->
 <g id="node18" class="node"><title>\\App\\User</title>
@@ -271,12 +271,12 @@
 <text text-anchor="middle" x="1155.12" y="-617.842" font-family="Courier,monospace" font-size="11.00">User</text>
 </g>
 <!-- \\Illuminate\\Foundation\\Auth\\User -->
-<g id="node30" class="node"><title>\\Illuminate\\Foundation\\Auth\\User</title>
+<g id="node22" class="node"><title>\\Illuminate\\Foundation\\Auth\\User</title>
 <ellipse fill="none" stroke="black" cx="684.246" cy="-20.6425" rx="167.07" ry="18"/>
 <text text-anchor="middle" x="684.246" y="-16.9425" font-family="Times,serif" font-size="14.00" fill="gray">\Illuminate\Foundation\Auth\User</text>
 </g>
 <!-- \\App\\User&#45;&gt;\\Illuminate\\Foundation\\Auth\\User -->
-<g id="edge17" class="edge"><title>\\App\\User&#45;&gt;\\Illuminate\\Foundation\\Auth\\User</title>
+<g id="edge4" class="edge"><title>\\App\\User&#45;&gt;\\Illuminate\\Foundation\\Auth\\User</title>
 <path fill="none" stroke="black" d="M1151.8,-602.545C1140.01,-513.409 1083.66,-122.341 993.618,-47.6425 933.326,2.37401 841.715,4.18537 773.998,-3.52845"/>
 <polygon fill="none" stroke="black" points="773.264,-0.0922648 763.766,-4.78649 774.118,-7.03995 773.264,-0.0922648"/>
 </g>
