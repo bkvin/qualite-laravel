@@ -54,6 +54,8 @@ node("master") {
                         sh('git config git-ftp.password ${FTP_PASSWORD}')
                         
                         sh('git ftp init')
+                        
+                        sh('git ftp push')
                     }
                 }
             }
