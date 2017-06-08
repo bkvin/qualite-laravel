@@ -15,11 +15,11 @@ node("master") {
         if(IS_MODIFIED){
 
             stage('build'){ 
-                sh('composer install')
+                // sh('composer install')
             }
 
             stage('test') {
-                sh('./vendor/bin/phpunit')
+                // sh('./vendor/bin/phpunit')
             }
         
             stage('documentation') {
