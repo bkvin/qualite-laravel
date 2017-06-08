@@ -36,7 +36,7 @@ node("master") {
             }
 
             stage('git'){              
-                sh('git add . && git commit "Jenkins commit phpDocumentor & merge branch origin/dev"')
+                sh('git add . && git commit -m "Jenkins phpDocumentor & merge branch origin/dev"')
                 withCredentials([[$class: 'UsernamePasswordMultiBinding', credentialsId: '9960d055-df1c-474a-ac3b-5bfdfbd4d59d', usernameVariable: 'GIT_USERNAME', passwordVariable: 'GIT_PASSWORD']]) {
 
                     sh('git push https://${GIT_USERNAME}:${GIT_PASSWORD}@github.com/bkvin/qualite-laravel.git')
