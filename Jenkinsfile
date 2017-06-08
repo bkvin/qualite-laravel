@@ -51,7 +51,7 @@ node("master") {
                     if(IS_MODIFIED) {
                         GIT_FTP = sh(returnStdout: true, script: 'git ftp init --user ${FTP_USERNAME} --passwd ${FTP_PASSWORD} ftp://46.105.92.169/test/').trim()
                         
-                        if(GIT_FTP == 'fatal: Commit found, use 'git ftp push' to sync. Exiting...'){
+                        if(GIT_FTP == "fatal: Commit found, use 'git ftp push' to sync. Exiting..."){
                             sh('git ftp push --user ${FTP_USERNAME} --passwd ${FTP_PASSWORD} ftp://46.105.92.169/test/')
                         }
                     }
