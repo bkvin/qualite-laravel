@@ -1,5 +1,5 @@
 {
-    "name": "laravel/laravel/bkvin/test",
+    "name": "laravel/laravel/",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
@@ -10,13 +10,14 @@
         "laravel/tinker": "~1.0"
     },
     "require-dev": {
-        "fzaninotto/faker": "~1.4",
-        "mockery/mockery": "0.9.*",
-        "phpunit/phpunit": "~5.7",
         "behat/behat": "^3.3",
         "behat/mink": "^1.7",
         "behat/mink-extension": "^2.2",
-        "laracasts/behat-laravel-extension": "^1.0"
+        "fzaninotto/faker": "~1.4",
+        "laracasts/behat-laravel-extension": "^1.0",
+        "mockery/mockery": "0.9.*",
+        "phpunit/phpunit": "~5.7",
+        "sebastian/phpcpd": "^3.0"
     },
     "autoload": {
         "classmap": [
@@ -44,6 +45,8 @@
         ],
         "post-update-cmd": [
             "Illuminate\\Foundation\\ComposerScripts::postUpdate",
+            "php -r \"file_exists('.env') || copy('.env.example', '.env');\"",
+            "php artisan key:generate",
             "php artisan optimize"
         ]
     },
