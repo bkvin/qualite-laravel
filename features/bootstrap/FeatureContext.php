@@ -20,16 +20,4 @@ class FeatureContext extends MinkContext implements Context
     public function __construct()
     {
     }
-
-    /** @Given /^I am on the "([^"]*)"$/ */
-    public function iAmOnThe($dir)
-    {
-        echo 'ok';
-    }
-
-    /** @And /^I have a file named "([^"]*)"$/ */
-    public function iHaveAFileNamed($dir)
-    {
-        echo 'ok';
-    }
 }
